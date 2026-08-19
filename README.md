@@ -5,6 +5,8 @@ the VM-hosted Blender Asset Forge. Forge remains canonical. No API key or write 
 
 Live visual gallery: https://marnibands.github.io/asset-forge-review-bridge/?job=238389120b0a40c68a52438e7bc4ffd9&transport=07322cc58413
 
+Browser-agent comparison aliases: [Job 3 baseline](job3/) · [Job 4 candidate](job4/)
+
 ## Published jobs
 
 | Created | Asset | Job | Parent | Source commit | Direct preview |
