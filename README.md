@@ -7,6 +7,10 @@ Live visual gallery: https://marnibands.github.io/asset-forge-review-bridge/?job
 
 Browser-agent comparison aliases: [Job 3 baseline](job3/) · [Job 4 candidate](job4/)
 
+Single-image comparison sheet: [Job 3 → Job 4](comparison-job3-job4.png). Layout: Job 3 is
+the left column, Job 4 is the right column; perspective front-right is the top row and top view is
+the bottom row. The four 512 × 512 quadrants are pixel-identical to the individual PNGs.
+
 ## Published jobs
 
 | Created | Asset | Job | Parent | Source commit | Direct preview |
