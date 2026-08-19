@@ -2,6 +2,25 @@
   "jobs": [
     {
       "asset_id": "test_crate",
+      "commit_sha": "bd4db00b86d19a51c9b1d81e704f47bf0bc51f21",
+      "created_at": "2026-08-19T16:54:45.052136+00:00",
+      "job_id": "238389120b0a40c68a52438e7bc4ffd9",
+      "parent_job_id": "9f010b28ac66414a97dbdcb73a7d5d3e",
+      "path": "jobs/238389120b0a40c68a52438e7bc4ffd9/",
+      "preview_files": {
+        "front": "review-238389120b0a-front.png",
+        "left": "review-238389120b0a-left.png",
+        "perspective_front_left": "review-238389120b0a-perspective_front_left.png",
+        "perspective_front_right": "review-238389120b0a-perspective_front_right.png",
+        "perspective_rear": "review-238389120b0a-perspective_rear.png",
+        "rear": "review-238389120b0a-rear.png",
+        "right": "review-238389120b0a-right.png",
+        "top": "review-238389120b0a-top.png"
+      },
+      "source_manifest_sha256": "07322cc5841305e8b7764bf971213379ea2f42628a1da236bc550d699a2458e8"
+    },
+    {
+      "asset_id": "test_crate",
       "commit_sha": "7aa26991f343ba3731a80d93bb8262b290bf7913",
       "created_at": "2026-08-19T15:36:31.150945+00:00",
       "job_id": "9f010b28ac66414a97dbdcb73a7d5d3e",

@@ -1,0 +1,87 @@
+{
+  "asset_id": "test_crate",
+  "asset_version": 2,
+  "blender_version": "5.1.2",
+  "canonical_job_url": "https://forge.eventinel.com/jobs/238389120b0a40c68a52438e7bc4ffd9",
+  "canonical_manifest_url": "https://forge.eventinel.com/api/jobs/238389120b0a40c68a52438e7bc4ffd9/manifest",
+  "commit_sha": "bd4db00b86d19a51c9b1d81e704f47bf0bc51f21",
+  "created_at": "2026-08-19T16:54:45.052136+00:00",
+  "generator_hash": "37ce668a014dd48afcc4d5cf7307d805e33273127785f0e0e08975b1ab5b0588",
+  "generator_path": "Blender/assets/test_crate/generate.py",
+  "job_id": "238389120b0a40c68a52438e7bc4ffd9",
+  "material_count": 2,
+  "mesh_count": 5,
+  "object_count": 9,
+  "parent_job_id": "9f010b28ac66414a97dbdcb73a7d5d3e",
+  "render_dimensions": {
+    "front": {
+      "height": 512,
+      "width": 512
+    },
+    "left": {
+      "height": 512,
+      "width": 512
+    },
+    "perspective_front_left": {
+      "height": 512,
+      "width": 512
+    },
+    "perspective_front_right": {
+      "height": 512,
+      "width": 512
+    },
+    "perspective_rear": {
+      "height": 512,
+      "width": 512
+    },
+    "rear": {
+      "height": 512,
+      "width": 512
+    },
+    "right": {
+      "height": 512,
+      "width": 512
+    },
+    "top": {
+      "height": 512,
+      "width": 512
+    }
+  },
+  "render_files": {
+    "front": "front.png",
+    "left": "left.png",
+    "perspective_front_left": "perspective_front_left.png",
+    "perspective_front_right": "perspective_front_right.png",
+    "perspective_rear": "perspective_rear.png",
+    "rear": "rear.png",
+    "right": "right.png",
+    "top": "top.png"
+  },
+  "render_sha256": {
+    "front": "494318e1e36440ce41d557c834add976920e6cb7d2120f0bf3f4577c41bf269c",
+    "left": "dec361047ed0409152a450e1bd4fea4a854b73235f16b961bf98c417c0839c77",
+    "perspective_front_left": "c9bf0dc0761d94df4ae4fa769f74144bf75b49b63012c6040501fe7a143b9a2c",
+    "perspective_front_right": "8ce98a134f1dfe013866757089c95fd2f56219cb4750db4b0f33c161df5da54e",
+    "perspective_rear": "a1605d61e0a88decbf53456eb780d94df7c64be519040439149eb3f355fb62b6",
+    "rear": "0b7ca66637208c9428a913f7d5b364d282538dc0cb48e0b87dcfd22bf32a73a5",
+    "right": "c510e31a78741190a73060830bdfed405b2b2935a51c973567ad9387e96ceff0",
+    "top": "d92c018c3f59f6b14e35b3740ca0419d2cefcbacbae8de8f3cc94ecf07ccca37"
+  },
+  "repository": "MarniBands/BlenderPFZAssets",
+  "review_bundle_schema_version": "1.0",
+  "seed": 48172,
+  "source_manifest_sha256": "07322cc5841305e8b7764bf971213379ea2f42628a1da236bc550d699a2458e8",
+  "spec_hash": "2763ae2ea52bf52c195b89c6a16c32f2613b6ee79ea27ee1849db26d57c917b2",
+  "triangle_count": 60,
+  "validation_summary": {
+    "errors": 0,
+    "geometry": {
+      "failed": 0,
+      "passed": 9,
+      "total": 9
+    },
+    "status": "pass",
+    "warnings": 0
+  },
+  "vertex_count": 40
+}
