@@ -5,6 +5,12 @@ the VM-hosted Blender Asset Forge. Forge remains canonical. No API key or write 
 
 Live visual gallery: https://marnibands.github.io/asset-forge-review-bridge/?job=b1de79b407f64b6380aba6d1abb2ab2f
 
+Arena eight-view contact sheet: [competitive_tag_arena_50x50 / b1de79b407f6](review-b1de79b407f6-eight-view-contact.png)
+
+Contact-sheet layout: top row = `front`, `rear`, `left`, `right`; bottom row = `top`,
+`perspective_front_left`, `perspective_front_right`, `perspective_rear`. Each 512×512 quadrant is
+pixel-identical to its immutable job-bundle PNG.
+
 ## Published jobs
 
 | Created | Asset | Job | Parent | Source commit | Direct preview |
