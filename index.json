@@ -7,6 +7,16 @@
       "job_id": "9f010b28ac66414a97dbdcb73a7d5d3e",
       "parent_job_id": "d3af4244021a4eff939ef205fa1eeaa4",
       "path": "jobs/9f010b28ac66414a97dbdcb73a7d5d3e/",
+      "preview_files": {
+        "front": "review-9f010b28ac66-front.png",
+        "left": "review-9f010b28ac66-left.png",
+        "perspective_front_left": "review-9f010b28ac66-perspective_front_left.png",
+        "perspective_front_right": "review-9f010b28ac66-perspective_front_right.png",
+        "perspective_rear": "review-9f010b28ac66-perspective_rear.png",
+        "rear": "review-9f010b28ac66-rear.png",
+        "right": "review-9f010b28ac66-right.png",
+        "top": "review-9f010b28ac66-top.png"
+      },
       "source_manifest_sha256": "d5166a85de119f811c15b6c7776cf36b8fbd89de3de37559f79078dfe3cfd529"
     },
     {
@@ -16,6 +26,7 @@
       "job_id": "d3af4244021a4eff939ef205fa1eeaa4",
       "parent_job_id": "2698d389947145e8a775f5385ac66683",
       "path": "jobs/d3af4244021a4eff939ef205fa1eeaa4/",
+      "preview_files": {},
       "source_manifest_sha256": "a0046fbe5435f4a6b7eb71b7fdab7ac3472c305bc4c61dc8d0d377e3233a297b"
     },
     {
@@ -25,6 +36,7 @@
       "job_id": "2698d389947145e8a775f5385ac66683",
       "parent_job_id": "c48b58449393416aaccc3b01bead5d84",
       "path": "jobs/2698d389947145e8a775f5385ac66683/",
+      "preview_files": {},
       "source_manifest_sha256": "860b29ea9d40ff5b83c3427dffe2e509bf13087f8335ac55ee42db22ced277fc"
     }
   ],
