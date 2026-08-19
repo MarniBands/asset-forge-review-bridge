@@ -1,0 +1,104 @@
+{
+  "asset_id": "test_crate",
+  "asset_version": 1,
+  "blender_version": "5.1.2",
+  "bounds": {
+    "max": [
+      0.656999945640564,
+      0.46799999475479126,
+      0.8399999737739563
+    ],
+    "min": [
+      -0.6240000128746033,
+      -0.5069999694824219,
+      0.0
+    ]
+  },
+  "commit_sha": "bcec8e140aab6477f649155e90038efd7ea1a5ea",
+  "created_at": "2026-08-18T22:34:25.738499+00:00",
+  "dimensions": {
+    "x": 1.2809998989105225,
+    "y": 0.9749999642372131,
+    "z": 0.8399999737739563
+  },
+  "downloads": {
+    "blend": "https://forge.eventinel.com/api/artifacts/2698d389947145e8a775f5385ac66683/asset.blend",
+    "fbx": "https://forge.eventinel.com/api/artifacts/2698d389947145e8a775f5385ac66683/asset.fbx",
+    "glb": "https://forge.eventinel.com/api/artifacts/2698d389947145e8a775f5385ac66683/asset.glb",
+    "zip": "https://forge.eventinel.com/api/artifacts/2698d389947145e8a775f5385ac66683/complete.zip"
+  },
+  "file_hashes": {
+    "asset.blend": "41cae5663d68e5ede3e8f7ba39e7bb143833af2da611ae92ffc4591d747b858a",
+    "asset.fbx": "05ddd481798d97e1d104b83d20a62101b5109b120eac5721ab9060a69d30b485",
+    "asset.glb": "39712bf2fe937cb92a2293f4bd4f50871933553ff11c4b478e7c8c6ac9597577",
+    "build.log": "73f144aedc30baffe08e0a4eb812e139bdddd09fec492f93dc70345036ed12e6",
+    "geometry_report.json": "3f99c1dc6aaee1c5cf875701cac032187ec0a30d52411ee184f7a7187bb0bd56",
+    "renders/front.png": "7289b2ae27e3efefd3ca222af9926aceeff617118ad51918d58d7d0a5fd85764",
+    "renders/left.png": "12c669508e7d4a1dfa52f2cc08c6cab172e038eb7d153ae733e914c039b908f6",
+    "renders/perspective_front_left.png": "3f7f1b43ac29b6e276e1e65cbb0e6b7d9fb8427e11132b68ffe99ece833c302c",
+    "renders/perspective_front_right.png": "81aa5c7af7132e2691983d766b39cd3e61db09082254e63cf215f4e5a11eeea4",
+    "renders/perspective_rear.png": "4b3badf8d1fd62a0747391088c15f421105c3fda2dd24ae9f5e08b48ed1568a6",
+    "renders/rear.png": "096ef62be809ad427d3659caafb1b5c313512391c1248e7807b50a00c82a479b",
+    "renders/right.png": "d28b4366405e4a1aa72cb1bd3cd99ccbec4341fcabf41068525772a67df42cac",
+    "renders/top.png": "1be0b93faa253b0bf0020382fe622e00ff29e51c16fdcabdb5453eb9243b9435",
+    "validation-report.json": "2d881979fdb8c8d82a92986f5510f490b92d37f630db39a94ab46e3348ca5296"
+  },
+  "files": {
+    "blend": "asset.blend",
+    "fbx": "asset.fbx",
+    "geometry_report": "geometry_report.json",
+    "glb": "asset.glb",
+    "renders": {
+      "front": "renders/front.png",
+      "left": "renders/left.png",
+      "perspective_front_left": "renders/perspective_front_left.png",
+      "perspective_front_right": "renders/perspective_front_right.png",
+      "perspective_rear": "renders/perspective_rear.png",
+      "rear": "renders/rear.png",
+      "right": "renders/right.png",
+      "top": "renders/top.png"
+    },
+    "validation": "validation-report.json",
+    "zip": "complete.zip"
+  },
+  "forward_axis": "-Y",
+  "generator_hash": "37ce668a014dd48afcc4d5cf7307d805e33273127785f0e0e08975b1ab5b0588",
+  "generator_path": "Blender/assets/test_crate/generate.py",
+  "job_id": "2698d389947145e8a775f5385ac66683",
+  "lifecycle_status": "generated",
+  "material_count": 2,
+  "mesh_count": 6,
+  "object_count": 10,
+  "origin": "bottom_center",
+  "parent_job_id": "c48b58449393416aaccc3b01bead5d84",
+  "renders": {
+    "front": "https://forge.eventinel.com/api/artifacts/2698d389947145e8a775f5385ac66683/renders/front.png",
+    "left": "https://forge.eventinel.com/api/artifacts/2698d389947145e8a775f5385ac66683/renders/left.png",
+    "perspective_front_left": "https://forge.eventinel.com/api/artifacts/2698d389947145e8a775f5385ac66683/renders/perspective_front_left.png",
+    "perspective_front_right": "https://forge.eventinel.com/api/artifacts/2698d389947145e8a775f5385ac66683/renders/perspective_front_right.png",
+    "perspective_rear": "https://forge.eventinel.com/api/artifacts/2698d389947145e8a775f5385ac66683/renders/perspective_rear.png",
+    "rear": "https://forge.eventinel.com/api/artifacts/2698d389947145e8a775f5385ac66683/renders/rear.png",
+    "right": "https://forge.eventinel.com/api/artifacts/2698d389947145e8a775f5385ac66683/renders/right.png",
+    "top": "https://forge.eventinel.com/api/artifacts/2698d389947145e8a775f5385ac66683/renders/top.png"
+  },
+  "repository": "MarniBands/BlenderPFZAssets",
+  "schema_version": "1.0",
+  "seed": 48172,
+  "spec_hash": "8d8e18c94c6d761eb03d7579acf7018540a19d07b226f7c9a35262b0f2b764f5",
+  "status": "complete",
+  "texture_count": 1,
+  "triangle_count": 72,
+  "unit_scale": 1.0,
+  "up_axis": "Z",
+  "validation_summary": {
+    "errors": 0,
+    "geometry": {
+      "failed": 0,
+      "passed": 10,
+      "total": 10
+    },
+    "status": "pass",
+    "warnings": 0
+  },
+  "vertex_count": 48
+}
