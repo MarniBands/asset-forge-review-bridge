@@ -1,0 +1,23 @@
+{
+  "jobs": [
+    {
+      "asset_id": "test_crate",
+      "commit_sha": "5ee6a053b05e5d7c343d928027f70dd012cf7232",
+      "created_at": "2026-08-19T09:29:45.861438+00:00",
+      "job_id": "d3af4244021a4eff939ef205fa1eeaa4",
+      "parent_job_id": "2698d389947145e8a775f5385ac66683",
+      "path": "jobs/d3af4244021a4eff939ef205fa1eeaa4/",
+      "source_manifest_sha256": "a0046fbe5435f4a6b7eb71b7fdab7ac3472c305bc4c61dc8d0d377e3233a297b"
+    },
+    {
+      "asset_id": "test_crate",
+      "commit_sha": "bcec8e140aab6477f649155e90038efd7ea1a5ea",
+      "created_at": "2026-08-18T22:34:25.738499+00:00",
+      "job_id": "2698d389947145e8a775f5385ac66683",
+      "parent_job_id": "c48b58449393416aaccc3b01bead5d84",
+      "path": "jobs/2698d389947145e8a775f5385ac66683/",
+      "source_manifest_sha256": "860b29ea9d40ff5b83c3427dffe2e509bf13087f8335ac55ee42db22ced277fc"
+    }
+  ],
+  "review_bridge_schema_version": "1.0"
+}
