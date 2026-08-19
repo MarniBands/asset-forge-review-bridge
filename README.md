@@ -3,6 +3,8 @@
 This public repository contains only immutable, sanitized manifests and PNG review renders from
 the VM-hosted Blender Asset Forge. Forge remains canonical. No API key or write route is published.
 
+Live visual gallery: https://marnibands.github.io/asset-forge-review-bridge/
+
 ## Published jobs
 
 | Created | Asset | Job | Parent | Source commit | Direct preview |
