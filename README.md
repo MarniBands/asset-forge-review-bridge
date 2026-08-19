@@ -10,3 +10,29 @@ custom Forge hostname. It contains the public manifest and the eight public rend
 No bearer key, worker credential, reviewer credential, write URL, or source secret is included.
 
 Views: front, left, perspective_front_left, perspective_front_right, perspective_rear, rear, right, top
+
+## Render gallery
+
+### front
+![front](front.png)
+
+### left
+![left](left.png)
+
+### perspective_front_left
+![perspective_front_left](perspective_front_left.png)
+
+### perspective_front_right
+![perspective_front_right](perspective_front_right.png)
+
+### perspective_rear
+![perspective_rear](perspective_rear.png)
+
+### rear
+![rear](rear.png)
+
+### right
+![right](right.png)
+
+### top
+![top](top.png)
