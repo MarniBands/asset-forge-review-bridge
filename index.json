@@ -2,6 +2,15 @@
   "jobs": [
     {
       "asset_id": "test_crate",
+      "commit_sha": "7aa26991f343ba3731a80d93bb8262b290bf7913",
+      "created_at": "2026-08-19T15:36:31.150945+00:00",
+      "job_id": "9f010b28ac66414a97dbdcb73a7d5d3e",
+      "parent_job_id": "d3af4244021a4eff939ef205fa1eeaa4",
+      "path": "jobs/9f010b28ac66414a97dbdcb73a7d5d3e/",
+      "source_manifest_sha256": "d5166a85de119f811c15b6c7776cf36b8fbd89de3de37559f79078dfe3cfd529"
+    },
+    {
+      "asset_id": "test_crate",
       "commit_sha": "5ee6a053b05e5d7c343d928027f70dd012cf7232",
       "created_at": "2026-08-19T09:29:45.861438+00:00",
       "job_id": "d3af4244021a4eff939ef205fa1eeaa4",
