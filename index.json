@@ -2,6 +2,25 @@
   "jobs": [
     {
       "asset_id": "test_crate",
+      "commit_sha": "0b085f35f261f200226d1f3c91c36bd11027cbce",
+      "created_at": "2026-08-20T00:04:04.976121+00:00",
+      "job_id": "8e521c1b6d1b4158a84991a4c43a01f6",
+      "parent_job_id": "ec27a545667f42daa7d5395cfb5e4a0b",
+      "path": "jobs/8e521c1b6d1b4158a84991a4c43a01f6/",
+      "preview_files": {
+        "front": "review-8e521c1b6d1b-front.png",
+        "left": "review-8e521c1b6d1b-left.png",
+        "perspective_front_left": "review-8e521c1b6d1b-perspective_front_left.png",
+        "perspective_front_right": "review-8e521c1b6d1b-perspective_front_right.png",
+        "perspective_rear": "review-8e521c1b6d1b-perspective_rear.png",
+        "rear": "review-8e521c1b6d1b-rear.png",
+        "right": "review-8e521c1b6d1b-right.png",
+        "top": "review-8e521c1b6d1b-top.png"
+      },
+      "source_manifest_sha256": "3f768e78081395ee47c9813377d4fb18c710421f487763dd50a25c89ddda1ac0"
+    },
+    {
+      "asset_id": "test_crate",
       "commit_sha": "791ccc38dc33dc60488782171fe46661d418c343",
       "created_at": "2026-08-19T23:38:25.447213+00:00",
       "job_id": "ec27a545667f42daa7d5395cfb5e4a0b",
