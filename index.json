@@ -1,6 +1,25 @@
 {
   "jobs": [
     {
+      "asset_id": "competitive_tag_arena_50x50",
+      "commit_sha": "cbc8a12a8eee65b129cd9d3070c42f4d340f5083",
+      "created_at": "2026-08-20T13:01:23.371866+00:00",
+      "job_id": "0d8e52b07b8a4a308ceb5dd68ac496f5",
+      "parent_job_id": "a480be110a3042adbe94979c0e4f3b0d",
+      "path": "jobs/0d8e52b07b8a4a308ceb5dd68ac496f5/",
+      "preview_files": {
+        "front": "review-0d8e52b07b8a-front.png",
+        "left": "review-0d8e52b07b8a-left.png",
+        "perspective_front_left": "review-0d8e52b07b8a-perspective_front_left.png",
+        "perspective_front_right": "review-0d8e52b07b8a-perspective_front_right.png",
+        "perspective_rear": "review-0d8e52b07b8a-perspective_rear.png",
+        "rear": "review-0d8e52b07b8a-rear.png",
+        "right": "review-0d8e52b07b8a-right.png",
+        "top": "review-0d8e52b07b8a-top.png"
+      },
+      "source_manifest_sha256": "3fdd74aaa8e971a200912a31c41bb5783d55b3febb0359a81fbd5530387c7a88"
+    },
+    {
       "asset_id": "test_crate",
       "commit_sha": "5213db7065d80906631a720b9378887dea7e5dfa",
       "created_at": "2026-08-20T12:39:06.023570+00:00",
