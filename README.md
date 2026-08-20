@@ -3,12 +3,13 @@
 This public repository contains only immutable, sanitized manifests and PNG review renders from
 the VM-hosted Blender Asset Forge. Forge remains canonical. No API key or write route is published.
 
-Live visual gallery: https://marnibands.github.io/asset-forge-review-bridge/?job=bc9014439b5a4221ba7cfb5e9c624383
+Live visual gallery: https://marnibands.github.io/asset-forge-review-bridge/?job=9c67f545e91a4df085471a4b3090e4ed
 
 ## Published jobs
 
 | Created | Asset | Job | Parent | Source commit | Direct preview |
 | --- | --- | --- | --- | --- | --- |
+| 2026-08-20T17:22:26.174781+00:00 | `competitive_tag_arena_50x50` | [`9c67f545e91a4df085471a4b3090e4ed`](jobs/9c67f545e91a4df085471a4b3090e4ed/) | `bc9014439b5a4221ba7cfb5e9c624383` | `ac06b7f79951232d05029023258a918dba3929f2` | [perspective front-right](review-9c67f545e91a-perspective_front_right.png) · [top](review-9c67f545e91a-top.png) |
 | 2026-08-20T16:36:26.820054+00:00 | `competitive_tag_arena_50x50` | [`bc9014439b5a4221ba7cfb5e9c624383`](jobs/bc9014439b5a4221ba7cfb5e9c624383/) | `0d8e52b07b8a4a308ceb5dd68ac496f5` | `a8b8b00cafc51c22cf56a2b604439a3937d7a174` | [perspective front-right](review-bc9014439b5a-perspective_front_right.png) · [top](review-bc9014439b5a-top.png) |
 | 2026-08-20T13:01:23.371866+00:00 | `competitive_tag_arena_50x50` | [`0d8e52b07b8a4a308ceb5dd68ac496f5`](jobs/0d8e52b07b8a4a308ceb5dd68ac496f5/) | `a480be110a3042adbe94979c0e4f3b0d` | `cbc8a12a8eee65b129cd9d3070c42f4d340f5083` | [perspective front-right](review-0d8e52b07b8a-perspective_front_right.png) · [top](review-0d8e52b07b8a-top.png) |
 | 2026-08-20T12:39:06.023570+00:00 | `test_crate` | [`348798f711194b088ee23703c42dbdcc`](jobs/348798f711194b088ee23703c42dbdcc/) | `8e521c1b6d1b4158a84991a4c43a01f6` | `5213db7065d80906631a720b9378887dea7e5dfa` | [perspective front-right](review-348798f71119-perspective_front_right.png) · [top](review-348798f71119-top.png) |
@@ -23,6 +24,18 @@ Live visual gallery: https://marnibands.github.io/asset-forge-review-bridge/?job
 | 2026-08-18T22:34:25.738499+00:00 | `test_crate` | [`2698d389947145e8a775f5385ac66683`](jobs/2698d389947145e8a775f5385ac66683/) | `c48b58449393416aaccc3b01bead5d84` | `bcec8e140aab6477f649155e90038efd7ea1a5ea` | — |
 
 ## Inline visual previews
+
+### competitive_tag_arena_50x50 / 9c67f545e91a4df085471a4b3090e4ed
+
+[Exact immutable bundle](jobs/9c67f545e91a4df085471a4b3090e4ed/)
+
+#### perspective front-right
+
+![9c67f545e91a4df085471a4b3090e4ed perspective front-right](review-9c67f545e91a-perspective_front_right.png)
+
+#### top
+
+![9c67f545e91a4df085471a4b3090e4ed top](review-9c67f545e91a-top.png)
 
 ### competitive_tag_arena_50x50 / bc9014439b5a4221ba7cfb5e9c624383
 
