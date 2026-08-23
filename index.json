@@ -2,6 +2,25 @@
   "jobs": [
     {
       "asset_id": "kellan_metahuman_clothing_set",
+      "commit_sha": "6a059f9a7e41bd3802951344745bbb8c7e22d7dc",
+      "created_at": "2026-08-23T00:58:50.329526+00:00",
+      "job_id": "c4efb59cb28a4e0091a5a0a48d22e15b",
+      "parent_job_id": "f70067a8408340e9af66ac51c6bc7423",
+      "path": "jobs/c4efb59cb28a4e0091a5a0a48d22e15b/",
+      "preview_files": {
+        "front": "review-c4efb59cb28a-front.png",
+        "left": "review-c4efb59cb28a-left.png",
+        "perspective_front_left": "review-c4efb59cb28a-perspective_front_left.png",
+        "perspective_front_right": "review-c4efb59cb28a-perspective_front_right.png",
+        "perspective_rear": "review-c4efb59cb28a-perspective_rear.png",
+        "rear": "review-c4efb59cb28a-rear.png",
+        "right": "review-c4efb59cb28a-right.png",
+        "top": "review-c4efb59cb28a-top.png"
+      },
+      "source_manifest_sha256": "74a13927966d46e0d6bb5429514dcb7295f77d3bf8bca929b979c3127810bda1"
+    },
+    {
+      "asset_id": "kellan_metahuman_clothing_set",
       "commit_sha": "52202f31075c37fa35ac063e9cefcb531677e741",
       "created_at": "2026-08-23T00:34:38.545628+00:00",
       "job_id": "f70067a8408340e9af66ac51c6bc7423",

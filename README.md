@@ -3,12 +3,13 @@
 This public repository contains only immutable, sanitized manifests and PNG review renders from
 the VM-hosted Blender Asset Forge. Forge remains canonical. No API key or write route is published.
 
-Live visual gallery: https://marnibands.github.io/asset-forge-review-bridge/?job=f70067a8408340e9af66ac51c6bc7423
+Live visual gallery: https://marnibands.github.io/asset-forge-review-bridge/?job=c4efb59cb28a4e0091a5a0a48d22e15b
 
 ## Published jobs
 
 | Created | Asset | Job | Parent | Source commit | Direct preview |
 | --- | --- | --- | --- | --- | --- |
+| 2026-08-23T00:58:50.329526+00:00 | `kellan_metahuman_clothing_set` | [`c4efb59cb28a4e0091a5a0a48d22e15b`](jobs/c4efb59cb28a4e0091a5a0a48d22e15b/) | `f70067a8408340e9af66ac51c6bc7423` | `6a059f9a7e41bd3802951344745bbb8c7e22d7dc` | [perspective front-right](review-c4efb59cb28a-perspective_front_right.png) · [top](review-c4efb59cb28a-top.png) |
 | 2026-08-23T00:34:38.545628+00:00 | `kellan_metahuman_clothing_set` | [`f70067a8408340e9af66ac51c6bc7423`](jobs/f70067a8408340e9af66ac51c6bc7423/) | `none` | `52202f31075c37fa35ac063e9cefcb531677e741` | [perspective front-right](review-f70067a84083-perspective_front_right.png) · [top](review-f70067a84083-top.png) |
 | 2026-08-20T17:22:26.174781+00:00 | `competitive_tag_arena_50x50` | [`9c67f545e91a4df085471a4b3090e4ed`](jobs/9c67f545e91a4df085471a4b3090e4ed/) | `bc9014439b5a4221ba7cfb5e9c624383` | `ac06b7f79951232d05029023258a918dba3929f2` | [perspective front-right](review-9c67f545e91a-perspective_front_right.png) · [top](review-9c67f545e91a-top.png) |
 | 2026-08-20T16:36:26.820054+00:00 | `competitive_tag_arena_50x50` | [`bc9014439b5a4221ba7cfb5e9c624383`](jobs/bc9014439b5a4221ba7cfb5e9c624383/) | `0d8e52b07b8a4a308ceb5dd68ac496f5` | `a8b8b00cafc51c22cf56a2b604439a3937d7a174` | [perspective front-right](review-bc9014439b5a-perspective_front_right.png) · [top](review-bc9014439b5a-top.png) |
@@ -25,6 +26,18 @@ Live visual gallery: https://marnibands.github.io/asset-forge-review-bridge/?job
 | 2026-08-18T22:34:25.738499+00:00 | `test_crate` | [`2698d389947145e8a775f5385ac66683`](jobs/2698d389947145e8a775f5385ac66683/) | `c48b58449393416aaccc3b01bead5d84` | `bcec8e140aab6477f649155e90038efd7ea1a5ea` | — |
 
 ## Inline visual previews
+
+### kellan_metahuman_clothing_set / c4efb59cb28a4e0091a5a0a48d22e15b
+
+[Exact immutable bundle](jobs/c4efb59cb28a4e0091a5a0a48d22e15b/)
+
+#### perspective front-right
+
+![c4efb59cb28a4e0091a5a0a48d22e15b perspective front-right](review-c4efb59cb28a-perspective_front_right.png)
+
+#### top
+
+![c4efb59cb28a4e0091a5a0a48d22e15b top](review-c4efb59cb28a-top.png)
 
 ### kellan_metahuman_clothing_set / f70067a8408340e9af66ac51c6bc7423
 
