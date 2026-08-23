@@ -1,6 +1,25 @@
 {
   "jobs": [
     {
+      "asset_id": "pvc_cube_frame",
+      "commit_sha": "5922d912eb817c949c8ecefd7b25dbc58c756400",
+      "created_at": "2026-08-23T02:43:13.335600+00:00",
+      "job_id": "ffedf4444d3d487a96aa2e0f74d46c2a",
+      "parent_job_id": null,
+      "path": "jobs/ffedf4444d3d487a96aa2e0f74d46c2a/",
+      "preview_files": {
+        "front": "review-ffedf4444d3d-front.png",
+        "left": "review-ffedf4444d3d-left.png",
+        "perspective_front_left": "review-ffedf4444d3d-perspective_front_left.png",
+        "perspective_front_right": "review-ffedf4444d3d-perspective_front_right.png",
+        "perspective_rear": "review-ffedf4444d3d-perspective_rear.png",
+        "rear": "review-ffedf4444d3d-rear.png",
+        "right": "review-ffedf4444d3d-right.png",
+        "top": "review-ffedf4444d3d-top.png"
+      },
+      "source_manifest_sha256": "d462eac6b0d02aea118597e366a74b397d8e24a8923a27f835242a89ae7acd13"
+    },
+    {
       "asset_id": "kellan_metahuman_clothing_set",
       "commit_sha": "6a059f9a7e41bd3802951344745bbb8c7e22d7dc",
       "created_at": "2026-08-23T00:58:50.329526+00:00",
