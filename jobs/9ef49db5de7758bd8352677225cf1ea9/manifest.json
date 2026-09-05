@@ -1,0 +1,88 @@
+{
+  "archive_url": "https://github.com/MarniBands/BlenderPFZAssets/releases/tag/asset-small_office_trial_20260905-33984868360-1",
+  "asset_id": "small_office_trial_20260905",
+  "asset_version": 1,
+  "blender_version": "5.1.2",
+  "commit_sha": "cbcbb2002397d46a3ff3b70767006057c2398900",
+  "created_at": "2026-09-05T18:42:56.900428+00:00",
+  "generator_hash": "9213e3ccde018174aae3892a53373e7649327cf9eb57bc2ca34f18aa073eb695",
+  "generator_path": "Blender/assets/small_office_trial_20260905/generate.py",
+  "job_id": "9ef49db5de7758bd8352677225cf1ea9",
+  "material_count": 14,
+  "mesh_count": 58,
+  "object_count": 62,
+  "parent_job_id": null,
+  "render_dimensions": {
+    "front": {
+      "height": 1024,
+      "width": 1024
+    },
+    "left": {
+      "height": 1024,
+      "width": 1024
+    },
+    "perspective_front_left": {
+      "height": 1024,
+      "width": 1024
+    },
+    "perspective_front_right": {
+      "height": 1024,
+      "width": 1024
+    },
+    "perspective_rear": {
+      "height": 1024,
+      "width": 1024
+    },
+    "rear": {
+      "height": 1024,
+      "width": 1024
+    },
+    "right": {
+      "height": 1024,
+      "width": 1024
+    },
+    "top": {
+      "height": 1024,
+      "width": 1024
+    }
+  },
+  "render_files": {
+    "front": "front.png",
+    "left": "left.png",
+    "perspective_front_left": "perspective_front_left.png",
+    "perspective_front_right": "perspective_front_right.png",
+    "perspective_rear": "perspective_rear.png",
+    "rear": "rear.png",
+    "right": "right.png",
+    "top": "top.png"
+  },
+  "render_sha256": {
+    "front": "b79a6a26f01eece9eb20cdf580c1d863f36a9438393c7af14e34a37110c985da",
+    "left": "2fa8950618df879672ceffe3d7e517af06d0eeef318c63d03c5c2351e4e8ad45",
+    "perspective_front_left": "c9248dcfdea2eb30b2928bbe98d345750efe1a28b35be24ebacbbf0ca9ddb8b2",
+    "perspective_front_right": "d74bcd1b6c27ff0ca6ba6db0e6bada55f33e5510475d2028e05ee33d9d1d79fb",
+    "perspective_rear": "069beafca573817fbcc9c5600f84c560959b2382bc3b8e5fb503b7f1642729b1",
+    "rear": "05b3c96c5995b75e73cab3e4665ea954fa835b400aac1c65a70b7100cde8a87e",
+    "right": "ddf826230e91b1d5690162a6131e127f891574e1af607666d211552a325a4f88",
+    "top": "5c012f7853feb147fdd78a816a5411170729bdb44b5b487367ffb4a227d8333c"
+  },
+  "repository": "MarniBands/BlenderPFZAssets",
+  "review_bundle_schema_version": "1.0",
+  "run_url": "https://github.com/MarniBands/BlenderPFZAssets/actions/runs/33984868360",
+  "seed": 9052026,
+  "source_manifest_sha256": "26da750536e3d486a631e6428e9cca377ae8e5bda4e82a44747c5e4da8530e46",
+  "source_url": "https://github.com/MarniBands/BlenderPFZAssets/commit/cbcbb2002397d46a3ff3b70767006057c2398900",
+  "spec_hash": "d638c68c3ca3bc65ffa5e15b13ec0d12dfb739759686071cff648bcbe60c4a13",
+  "triangle_count": 1768,
+  "validation_summary": {
+    "errors": 0,
+    "geometry": {
+      "failed": 0,
+      "passed": 49,
+      "total": 49
+    },
+    "status": "pass",
+    "warnings": 0
+  },
+  "vertex_count": 1000
+}

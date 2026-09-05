@@ -8,6 +8,7 @@ Blender GitHub builds. Source commits and private releases retain provenance. No
 
 | Created | Asset | Job | Parent | Source commit | Direct preview |
 | --- | --- | --- | --- | --- | --- |
+| 2026-09-05T18:42:56.900428+00:00 | `small_office_trial_20260905` | [`9ef49db5de7758bd8352677225cf1ea9`](jobs/9ef49db5de7758bd8352677225cf1ea9/) | `none` | `cbcbb2002397d46a3ff3b70767006057c2398900` | [perspective front-right](review-9ef49db5de77-perspective_front_right.png) · [top](review-9ef49db5de77-top.png) |
 | 2026-09-05T17:25:44.256074+00:00 | `small_office_trial_20260905` | [`1fc13cbdb966545595739012431b102e`](jobs/1fc13cbdb966545595739012431b102e/) | `none` | `c218eaea6d69ea34cd3a935fb96119e8be593c65` | [perspective front-right](review-1fc13cbdb966-perspective_front_right.png) · [top](review-1fc13cbdb966-top.png) |
 | 2026-09-05T16:52:46.469380+00:00 | `small_office_trial_20260905` | [`254cea6d8d8a583bb8f5e4d0b9e614f8`](jobs/254cea6d8d8a583bb8f5e4d0b9e614f8/) | `ccb48423443d51e792a4060427baca69` | `a2c9d0a2575b1ded6000b2c886eeecf668e467d1` | [perspective front-right](review-254cea6d8d8a-perspective_front_right.png) · [top](review-254cea6d8d8a-top.png) |
 | 2026-09-05T16:22:19.014225+00:00 | `small_office_trial_20260905` | [`ccb48423443d51e792a4060427baca69`](jobs/ccb48423443d51e792a4060427baca69/) | `none` | `6b5372cc76831d578685bb54e3fa0068fa8b0574` | [perspective front-right](review-ccb48423443d-perspective_front_right.png) · [top](review-ccb48423443d-top.png) |
@@ -31,6 +32,18 @@ Blender GitHub builds. Source commits and private releases retain provenance. No
 | 2026-08-18T22:34:25.738499+00:00 | `test_crate` | [`2698d389947145e8a775f5385ac66683`](jobs/2698d389947145e8a775f5385ac66683/) | `c48b58449393416aaccc3b01bead5d84` | `bcec8e140aab6477f649155e90038efd7ea1a5ea` | — |
 
 ## Inline visual previews
+
+### small_office_trial_20260905 / 9ef49db5de7758bd8352677225cf1ea9
+
+[Exact immutable bundle](jobs/9ef49db5de7758bd8352677225cf1ea9/)
+
+#### perspective front-right
+
+![9ef49db5de7758bd8352677225cf1ea9 perspective front-right](review-9ef49db5de77-perspective_front_right.png)
+
+#### top
+
+![9ef49db5de7758bd8352677225cf1ea9 top](review-9ef49db5de77-top.png)
 
 ### small_office_trial_20260905 / 1fc13cbdb966545595739012431b102e
 
