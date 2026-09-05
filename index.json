@@ -2,6 +2,25 @@
   "jobs": [
     {
       "asset_id": "small_office_trial_20260905",
+      "commit_sha": "c218eaea6d69ea34cd3a935fb96119e8be593c65",
+      "created_at": "2026-09-05T17:25:44.256074+00:00",
+      "job_id": "1fc13cbdb966545595739012431b102e",
+      "parent_job_id": null,
+      "path": "jobs/1fc13cbdb966545595739012431b102e/",
+      "preview_files": {
+        "front": "review-1fc13cbdb966-front.png",
+        "left": "review-1fc13cbdb966-left.png",
+        "perspective_front_left": "review-1fc13cbdb966-perspective_front_left.png",
+        "perspective_front_right": "review-1fc13cbdb966-perspective_front_right.png",
+        "perspective_rear": "review-1fc13cbdb966-perspective_rear.png",
+        "rear": "review-1fc13cbdb966-rear.png",
+        "right": "review-1fc13cbdb966-right.png",
+        "top": "review-1fc13cbdb966-top.png"
+      },
+      "source_manifest_sha256": "18cfb93c51ece911415efc178278af762e10b80e124fbf85389beb27fffa1bd9"
+    },
+    {
+      "asset_id": "small_office_trial_20260905",
       "commit_sha": "a2c9d0a2575b1ded6000b2c886eeecf668e467d1",
       "created_at": "2026-09-05T16:52:46.469380+00:00",
       "job_id": "254cea6d8d8a583bb8f5e4d0b9e614f8",
