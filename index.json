@@ -1,6 +1,25 @@
 {
   "jobs": [
     {
+      "asset_id": "small_office_trial_20260905",
+      "commit_sha": "6b5372cc76831d578685bb54e3fa0068fa8b0574",
+      "created_at": "2026-09-05T16:22:19.014225+00:00",
+      "job_id": "ccb48423443d51e792a4060427baca69",
+      "parent_job_id": null,
+      "path": "jobs/ccb48423443d51e792a4060427baca69/",
+      "preview_files": {
+        "front": "review-ccb48423443d-front.png",
+        "left": "review-ccb48423443d-left.png",
+        "perspective_front_left": "review-ccb48423443d-perspective_front_left.png",
+        "perspective_front_right": "review-ccb48423443d-perspective_front_right.png",
+        "perspective_rear": "review-ccb48423443d-perspective_rear.png",
+        "rear": "review-ccb48423443d-rear.png",
+        "right": "review-ccb48423443d-right.png",
+        "top": "review-ccb48423443d-top.png"
+      },
+      "source_manifest_sha256": "57bd4ef6d708d0e7c2fdfe9636bf7a909f518760cf9498d9dba56064a482efa1"
+    },
+    {
       "asset_id": "computer_monitor_trial_20260905",
       "commit_sha": "dcf6a94351e6009ab87712a549923b000412e442",
       "created_at": "2026-09-05T15:29:55.208663+00:00",
